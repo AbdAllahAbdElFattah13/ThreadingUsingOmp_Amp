@@ -7,4 +7,7 @@ Projects include: </br>
 3- Text search using threads.</br>
 4- Mandelbrot Fractals (smiple version) using threads and AMP.</br>
 </br>
+</br>
+<strong>I was Responsible of designing the project and imp. Mandelbrot Fractals (all of it) and kMeans algorithm (helped)</strong>
+</br>
 <strong>ALL algorithms are implemented with serial soluations first to be able to compare them.</strong>  </br>
